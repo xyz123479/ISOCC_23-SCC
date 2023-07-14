@@ -14,4 +14,4 @@ Paper title: [ISOCC'23] SCC: An efficient code for MLC PCM
 Paper URL: **(to be updated later)**
 
 # Overview (Prior work [2] vs Our work)
-![An Overview of the evaluation](https://github.com/xyz123479/JOK_23-DNN_Retraining_Method_Reducing_Accuracy_Degradation/blob/master/DNN%20Retraining_comparison.png)
+![A comparison of the four ECC schemes](https://github.com/xyz123479/ISOCC_23-SCC/blob/main/SCC.png)
