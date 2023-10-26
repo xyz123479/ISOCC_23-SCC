@@ -1,5 +1,7 @@
 # ISOCC_23-SCC
 
+# This project is licensed under the terms of the MIT license
+
 # Author
 
 **Yujin Lim**
