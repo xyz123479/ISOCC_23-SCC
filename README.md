@@ -14,7 +14,7 @@
 
 Paper title: [ISOCC'23] SCC: Efficient Error Correction Codes for MLC PCM
 
-Paper URL: **(to be updated later)**
+Paper URL: https://ieeexplore.ieee.org/document/10396372
 
 # Overview (Prior ECC schemes vs SCC)
 ![A comparison of the four ECC schemes](https://github.com/xyz123479/ISOCC_23-SCC/blob/main/SCC.png)
